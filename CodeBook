@@ -10,10 +10,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals).
 
-This assignment explicitly states "Extract only the measurements on the mean and standard deviation for each measurement." To be complete. therefore this includes the mean and standard deviations of each measurement. 
-
-    mean(): Mean value
-    std(): Standard deviation
+This assignment explicitly states "Extract only the measurements on the mean and standard deviation for each measurement."  therefore this includes the mean and standard deviations of each measurement. 
 
 The tidy.txt data set here contains the following fields:
 Identifiers: 
